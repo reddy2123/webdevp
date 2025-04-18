@@ -7,3 +7,6 @@ Sir M Visvesvaraya Institute of Technology
   JAVA       
   PYTHON    
   C    
+
+Linkedin profile   
+  https://www.linkedin.com/in/nandhan-reddy-b9a8602b3/   
