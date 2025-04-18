@@ -3,7 +3,7 @@
 Information Science & Engineering (ISE)    
 Sir M Visvesvaraya Institute of Technology   
 
-💻 Current Tech Stack
-  JAVA
-  PYTHON 
-  C
+💻 Current Tech Stack     
+  JAVA       
+  PYTHON    
+  C    
